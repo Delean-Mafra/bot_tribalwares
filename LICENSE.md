@@ -1,14 +1,15 @@
 # Licença Creative Commons BY-NC 4.0
 
-**Tribal Wars Bot - Extensão de Automação**
-
-Copyright © Delean Mafra  
-Todos os direitos reservados
-
 ---
 ![Creative Commons License](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)
 
 **Licença:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br)
+
+Copyright © Delean Mafra  
+Todos os direitos reservados
+---
+
+**Tribal Wars Bot - Extensão de Automação**
 
 ---
 
@@ -150,4 +151,5 @@ Todos os direitos reservados
 
 **Licença:** Creative Commons BY-NC 4.0  
 https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br
+
 
