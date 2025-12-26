@@ -39,7 +39,7 @@ Você deve dar o **crédito apropriado**, prover um link para a licença e **ind
 ```
 Tribal Wars Bot por Delean Mafra
 Licenciado sob CC BY-NC 4.0
-https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br
+https://delean-mafra.github.io/Ahtools/CC_BY_NC_4.0
 ```
 
 #### 🚫 NãoComercial (NC)
@@ -103,13 +103,7 @@ Esta é uma licença legal vinculativa. Em caso de dúvidas ou disputas, a vers�
 Para ler o texto legal completo da licença Creative Commons Atribuição-NãoComercial 4.0 Internacional, visite:
 
 **Português (Brasil):**  
-https://delean-mafra.github.io/Ahtools/CC_BY_NC_4.0
-
-**Inglês (original):**  
-https://creativecommons.org/licenses/by-nc/4.0/legalcode
-
-**Resumo legível:**  
-https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br
+[https://delean-mafra.github.io/Ahtools/CC_BY_NC_4.0](https://delean-mafra.github.io/Ahtools/CC_BY_NC_4.0)
 
 ---
 
@@ -150,7 +144,7 @@ Você perde automaticamente todos os direitos concedidos por esta licença e pod
 Todos os direitos reservados
 
 **Licença:** Creative Commons BY-NC 4.0  
-https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br
+https://delean-mafra.github.io/Ahtools/CC_BY_NC_4.0
 
 
 
