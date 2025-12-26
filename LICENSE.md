@@ -3,7 +3,7 @@
 ---
 ![Creative Commons License](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)
 
-**Licença:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br)
+**Licença:** [CC BY-NC-SA 4.0](https://delean-mafra.github.io/Ahtools/CC_BY_NC_4.0)
 
 Copyright © Delean Mafra  
 Todos os direitos reservados
@@ -151,5 +151,6 @@ Todos os direitos reservados
 
 **Licença:** Creative Commons BY-NC 4.0  
 https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br
+
 
 
