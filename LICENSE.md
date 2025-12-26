@@ -16,7 +16,7 @@ Todos os direitos reservados
 ## Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0)
 
 Este é um resumo legível por humanos da licença completa disponível em:  
-https://creativecommons.org/licenses/by-nc/4.0/legalcode.pt
+https://delean-mafra.github.io/Ahtools/CC_BY_NC_4.0
 
 ### Você tem o direito de:
 
@@ -103,7 +103,7 @@ Esta é uma licença legal vinculativa. Em caso de dúvidas ou disputas, a vers�
 Para ler o texto legal completo da licença Creative Commons Atribuição-NãoComercial 4.0 Internacional, visite:
 
 **Português (Brasil):**  
-https://creativecommons.org/licenses/by-nc/4.0/legalcode.pt
+https://delean-mafra.github.io/Ahtools/CC_BY_NC_4.0
 
 **Inglês (original):**  
 https://creativecommons.org/licenses/by-nc/4.0/legalcode
@@ -151,6 +151,7 @@ Todos os direitos reservados
 
 **Licença:** Creative Commons BY-NC 4.0  
 https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br
+
 
 
 
